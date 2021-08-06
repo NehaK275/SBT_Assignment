@@ -1,0 +1,4 @@
+[warn] akka-persistence-typed_2.12-2.6.15.jar no longer exists at /home/knoldus/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-persistence-typed_2.12/2.6.15/akka-persistence-typed_2.12-2.6.15.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating act...
+[debug] Done updating act
